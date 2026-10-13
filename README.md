@@ -1,4 +1,4 @@
-# da-retail-sales-analytics
+# da-retail-sales-performance-analytics
 
 ## Retail Sales Performance Workbook (Excel)
 
