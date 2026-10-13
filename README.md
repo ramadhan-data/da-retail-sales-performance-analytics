@@ -65,7 +65,7 @@ The file's origin is unverified. Its structure and product wording resemble a we
 
 | Path | What it is |
 |---|---|
-| `data/` | Notes on the source data. The raw CSV is not included (origin and licence unverified) |
+| `data/` | Raw CSV used in this project (unchanged) and notes on its source. Origin and licence unverified |
 | `docs/` | `dashboard.png` (rendered with LibreOffice, not an Excel screenshot) and `VALIDATION_SUMMARY.md` (what was and was not tested) |
 | `workbook/` | `Retail_Sales_Analytics_SAMPLE.xlsx`: small working copy built from a random sample of 900 invoices (19,753 rows) with the same sheets, formulas and dropdowns. Its numbers differ from the full-period figures above |
 
